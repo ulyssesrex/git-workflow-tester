@@ -1,3 +1,5 @@
 This is another file.
 
 It's really boring.
+
+I am a cat.
